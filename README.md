@@ -1,4 +1,4 @@
-# Análisis del desempeño financiero de Adventure Works con SQL
+# Análisis de Desempeño Financiero de Adventure Works con SQL
 
 ### Objetivos del proyecto
 
