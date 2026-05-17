@@ -19,12 +19,12 @@ Tablas Disponibles
 
 Usaremos un subconjunto del dataset de AdventureWorks. Estas son las tablas que están disponibles para ti:
 
-* `ventas_2017`: transacciones de líneas de pedido (2017). Grano: una línea por producto y pedido.
-* productos: catálogo con atributos, costo y precio unitario por ClaveProducto.
-* productos_categorias: jerarquía categoría/subcategoría para enriquecer productos.
-* clientes: maestro de clientes con segmento y ubicación.
-* territorios: mapa de ClaveTerritorio → país y continente.
-* campanas: gasto de marketing por territorio/campaña.
+* **ventas_2017**: transacciones de líneas de pedido (2017). Grano: una línea por producto y pedido.
+* **productos**: catálogo con atributos, costo y precio unitario por ClaveProducto.
+* **productos_categorias**: jerarquía categoría/subcategoría para enriquecer productos.
+* **clientes**: maestro de clientes con segmento y ubicación.
+* **territorios**: mapa de ClaveTerritorio → país y continente.
+* **campanas**: gasto de marketing por territorio/campaña.
 
 ### Contexto del negocio
 
